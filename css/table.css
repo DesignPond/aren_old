@@ -1,0 +1,36 @@
+table.sample {
+	width: 95%;
+	margin: 22px 2.5% 44px 2.5%;
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color:#e1e1e1;
+	border-collapse: collapse;
+	background-color: #f9f9f9;
+}
+
+
+table.sample td,table.sample th  {
+	border-width: 1px;
+	padding: 8px;
+	text-align: left;
+	border-style: solid;
+	border-color: #e1e1e1;
+	background-color: #f9f9f9;
+
+}
+
+table.sample th  {
+	background-color: #484d65;
+	color: #fff;
+
+}
+
+table.sample td.title  {
+	
+	color: #d26d01;
+	font-weight: bold;
+
+}
+
+

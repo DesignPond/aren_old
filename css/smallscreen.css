@@ -1,0 +1,69 @@
+
+
+@media screen and (max-width: 1130px){
+
+	nav{
+		width: 51%;
+		}
+
+      nav ul li{
+		margin: 0 1.9%;
+		font-size: 0.9em;
+		}
+
+}
+
+
+@media screen and (max-width: 1024px){
+
+	nav{
+		width: 45%;
+		display: block;
+		}
+
+      nav ul li{
+		margin: 0 2%;
+		font-size: 0.85em;
+		}
+
+}
+
+
+@media screen and (max-width: 960px){
+
+	nav{
+		width:37%;
+		padding: 8px 5px 0 5px;
+		height: 66px;
+		top: 90px;
+		text-align: center;
+		}
+
+      nav ul li{
+		margin: 0 3%;
+		height: 31px;
+		line-height: 22px;
+		font-size: 0.9em;
+		text-align: center;
+		}
+		
+		nav ul li a{
+		height: 27px;
+		}
+		
+
+}
+    
+    
+
+#map_canvas{
+width: 90%;
+height: 100%;
+display: block;
+}
+
+#map_canvas2{
+width: 90%;
+height: 100%;
+display: block;
+}
